@@ -14,11 +14,11 @@
 </h1>
 
 ## :page_with_curl: Sobre
-![GitHub language count](https://img.shields.io/github/languages/count/ecrozatti/GoBarber_Backend)
-![GitHub top language](https://img.shields.io/github/languages/top/ecrozatti/GoBarber_Backend)
-![GitHub repo size](https://img.shields.io/github/repo-size/ecrozatti/GoBarber_Backend)
-![GitHub](https://img.shields.io/github/license/ecrozatti/GoBarber_Backend)
-![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/GoBarber_Backend)
+![GitHub language count](https://img.shields.io/github/languages/count/ecrozatti/GoBarBer_Web)
+![GitHub top language](https://img.shields.io/github/languages/top/ecrozatti/GoBarBer_Web)
+![GitHub repo size](https://img.shields.io/github/repo-size/ecrozatti/GoBarBer_Web)
+![GitHub](https://img.shields.io/github/license/ecrozatti/GoBarBer_Web)
+![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/GoBarBer_Web)
 
 Este repositório contém a aplicação web GoBarber. Projeto frontend usando ReactJS com TypeScript, rotas e envio de arquivos por formulário. A aplicação se conecta a API criada no repositório [GoBarber_Backend](https://github.com/ecrozatti/GoBarber_Backend).
 
