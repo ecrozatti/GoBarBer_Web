@@ -47,8 +47,6 @@ Esse projeto foi desenvolvido no Bootcamp GoStack da Rocketseat com as seguintes
 
 ## :books: Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
-- Ter [**Node.js**](https://nodejs.org/en/) instalado.
-- Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
 
 ## :rocket: Começando
 ``` bash
